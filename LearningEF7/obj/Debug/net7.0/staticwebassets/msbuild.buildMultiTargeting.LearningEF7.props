@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LearningEF7.props" />
+</Project>

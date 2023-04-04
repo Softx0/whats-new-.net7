@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearningEF7.API", "LearningEF7\LearningEF7.API.csproj", "{CD41FD75-BBD8-4557-8FFD-CFF66E95FED1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{AE458FA3-BEA9-4AA2-9849-974948983330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningEF7.Domain", "LearningEF7.Domain\LearningEF7.Domain.csproj", "{B0EE060D-E688-4440-8DB1-EE738C6F2A3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD41FD75-BBD8-4557-8FFD-CFF66E95FED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD41FD75-BBD8-4557-8FFD-CFF66E95FED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD41FD75-BBD8-4557-8FFD-CFF66E95FED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD41FD75-BBD8-4557-8FFD-CFF66E95FED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0EE060D-E688-4440-8DB1-EE738C6F2A3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0EE060D-E688-4440-8DB1-EE738C6F2A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0EE060D-E688-4440-8DB1-EE738C6F2A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0EE060D-E688-4440-8DB1-EE738C6F2A3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CD41FD75-BBD8-4557-8FFD-CFF66E95FED1} = {AE458FA3-BEA9-4AA2-9849-974948983330}
+		{B0EE060D-E688-4440-8DB1-EE738C6F2A3C} = {AE458FA3-BEA9-4AA2-9849-974948983330}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C5BFBCE-B625-496B-B983-5397334C8BE6}
+	EndGlobalSection
+EndGlobal

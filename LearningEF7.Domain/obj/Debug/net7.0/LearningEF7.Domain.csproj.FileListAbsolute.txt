@@ -1,0 +1,12 @@
+C:\Users\IngVa\Desktop\ProyectosPersonales\ef7\LearningEF7\LearningEF7.Domain\bin\Debug\net7.0\LearningEF7.Domain.deps.json
+C:\Users\IngVa\Desktop\ProyectosPersonales\ef7\LearningEF7\LearningEF7.Domain\bin\Debug\net7.0\LearningEF7.Domain.dll
+C:\Users\IngVa\Desktop\ProyectosPersonales\ef7\LearningEF7\LearningEF7.Domain\bin\Debug\net7.0\LearningEF7.Domain.pdb
+C:\Users\IngVa\Desktop\ProyectosPersonales\ef7\LearningEF7\LearningEF7.Domain\obj\Debug\net7.0\LearningEF7.Domain.csproj.AssemblyReference.cache
+C:\Users\IngVa\Desktop\ProyectosPersonales\ef7\LearningEF7\LearningEF7.Domain\obj\Debug\net7.0\LearningEF7.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IngVa\Desktop\ProyectosPersonales\ef7\LearningEF7\LearningEF7.Domain\obj\Debug\net7.0\LearningEF7.Domain.AssemblyInfoInputs.cache
+C:\Users\IngVa\Desktop\ProyectosPersonales\ef7\LearningEF7\LearningEF7.Domain\obj\Debug\net7.0\LearningEF7.Domain.AssemblyInfo.cs
+C:\Users\IngVa\Desktop\ProyectosPersonales\ef7\LearningEF7\LearningEF7.Domain\obj\Debug\net7.0\LearningEF7.Domain.csproj.CoreCompileInputs.cache
+C:\Users\IngVa\Desktop\ProyectosPersonales\ef7\LearningEF7\LearningEF7.Domain\obj\Debug\net7.0\LearningEF7.Domain.dll
+C:\Users\IngVa\Desktop\ProyectosPersonales\ef7\LearningEF7\LearningEF7.Domain\obj\Debug\net7.0\refint\LearningEF7.Domain.dll
+C:\Users\IngVa\Desktop\ProyectosPersonales\ef7\LearningEF7\LearningEF7.Domain\obj\Debug\net7.0\LearningEF7.Domain.pdb
+C:\Users\IngVa\Desktop\ProyectosPersonales\ef7\LearningEF7\LearningEF7.Domain\obj\Debug\net7.0\ref\LearningEF7.Domain.dll
